@@ -1,3 +1,13 @@
+# React-Firebase-Auth
+Forked from WebDevSimplified/React-Firebase-Auth
+## React Authentication Crash Course With Firebase And Routing
+This app from Kyle at Web Dev Simplified goes over some exellent material
+for register,login, forgot password, routes, contexts (including an auth context for private routes)
+
+[Link to video:](https://www.youtube.com/watch?v=PKwu15ldZ7k) 
+
+Below is the original contents of the readme.  it is basically what react creates when you `Create React App`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
